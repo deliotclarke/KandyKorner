@@ -1,0 +1,450 @@
+{
+  "candyData": [
+    {
+      "id": 1,
+      "name": "Song of Bernadette, The",
+      "type": 6
+    },
+    {
+      "id": 2,
+      "name": "Pan",
+      "type": 1
+    },
+    {
+      "id": 3,
+      "name": "Street Fighter: Assassin's Fist",
+      "type": 5
+    },
+    {
+      "id": 4,
+      "name": "Guilty as Sin",
+      "type": 3
+    },
+    {
+      "id": 5,
+      "name": "Crank",
+      "type": 3
+    },
+    {
+      "id": 6,
+      "name": "Rio 2",
+      "type": 2
+    },
+    {
+      "id": 7,
+      "name": "Callas Forever",
+      "type": 2
+    },
+    {
+      "id": 8,
+      "name": "Luxo Jr.",
+      "type": 4
+    },
+    {
+      "id": 9,
+      "name": "Gentlemen Don't Eat Poets (Grotesque, The)",
+      "type": 5
+    },
+    {
+      "id": 10,
+      "name": "Alien Cargo",
+      "type": 6
+    },
+    {
+      "id": 11,
+      "name": "Tube Tales",
+      "type": 1
+    },
+    {
+      "id": 12,
+      "name": "Ace of Hearts, The",
+      "type": 5
+    },
+    {
+      "id": 13,
+      "name": "Work of Director Michel Gondry, The",
+      "type": 3
+    },
+    {
+      "id": 14,
+      "name": "Finding Nemo",
+      "type": 5
+    },
+    {
+      "id": 15,
+      "name": "Lost Youth",
+      "type": 5
+    },
+    {
+      "id": 16,
+      "name": "Human Planet",
+      "type": 2
+    },
+    {
+      "id": 17,
+      "name": "Sky Fighters (Les Chevaliers Du Ciel)",
+      "type": 2
+    },
+    {
+      "id": 18,
+      "name": "When Willie Comes Marching Home",
+      "type": 1
+    },
+    {
+      "id": 19,
+      "name": "Turtle's Tale: Sammy's Adventures, A",
+      "type": 5
+    },
+    {
+      "id": 20,
+      "name": "Frankie and Alice",
+      "type": 6
+    },
+    {
+      "id": 21,
+      "name": "Land Before Time, The",
+      "type": 1
+    },
+    {
+      "id": 22,
+      "name": "Aqua Teen Hunger Force Colon Movie Film for Theaters",
+      "type": 6
+    },
+    {
+      "id": 23,
+      "name": "What's in a Name (Prénom, Le)",
+      "type": 4
+    },
+    {
+      "id": 24,
+      "name": "Jesus Christ Superstar",
+      "type": 1
+    },
+    {
+      "id": 25,
+      "name": "Blood Alley",
+      "type": 2
+    },
+    {
+      "id": 26,
+      "name": "Adventures of Prince Achmed, The (Abenteuer des Prinzen Achmed, Die)",
+      "type": 5
+    },
+    {
+      "id": 27,
+      "name": "Noise",
+      "type": 1
+    },
+    {
+      "id": 28,
+      "name": "Kill Theory",
+      "type": 3
+    },
+    {
+      "id": 29,
+      "name": "Virginity Hit, The",
+      "type": 5
+    },
+    {
+      "id": 30,
+      "name": "Nanny McPhee Returns (a.k.a. Nanny McPhee and the Big Bang)",
+      "type": 1
+    },
+    {
+      "id": 31,
+      "name": "Prime of Miss Jean Brodie, The",
+      "type": 4
+    },
+    {
+      "id": 32,
+      "name": "City of Ember",
+      "type": 3
+    },
+    {
+      "id": 33,
+      "name": "Fingersmith",
+      "type": 3
+    },
+    {
+      "id": 34,
+      "name": "Goke, Body Snatcher from Hell (Kyuketsuki Gokemidoro)",
+      "type": 3
+    },
+    {
+      "id": 35,
+      "name": "Match Point",
+      "type": 2
+    },
+    {
+      "id": 36,
+      "name": "Another Me",
+      "type": 1
+    },
+    {
+      "id": 37,
+      "name": "Tale of Despereaux, The",
+      "type": 3
+    },
+    {
+      "id": 38,
+      "name": "Patterns",
+      "type": 6
+    },
+    {
+      "id": 39,
+      "name": "Bliss",
+      "type": 2
+    },
+    {
+      "id": 40,
+      "name": "Tru Confessions",
+      "type": 2
+    },
+    {
+      "id": 41,
+      "name": "Cremator, The (Spalovac mrtvol)",
+      "type": 3
+    },
+    {
+      "id": 42,
+      "name": "Restaurant",
+      "type": 5
+    },
+    {
+      "id": 43,
+      "name": "Poolhall Junkies",
+      "type": 3
+    },
+    {
+      "id": 44,
+      "name": "The Ghosts in Our Machine",
+      "type": 3
+    },
+    {
+      "id": 45,
+      "name": "MURDER and murder",
+      "type": 6
+    },
+    {
+      "id": 46,
+      "name": "Unknown Woman, The (La Sconosciuta)",
+      "type": 4
+    },
+    {
+      "id": 47,
+      "name": "Alarmist, The (a.k.a. Life During Wartime)",
+      "type": 4
+    },
+    {
+      "id": 48,
+      "name": "O'Horten",
+      "type": 6
+    },
+    {
+      "id": 49,
+      "name": "I Love Your Work",
+      "type": 5
+    },
+    {
+      "id": 50,
+      "name": "Star Trek III: The Search for Spock",
+      "type": 1
+    }
+  ],
+  "candyTypes": [
+    {
+      "id": 1,
+      "type": "Hard Candy"
+    },
+    {
+      "id": 2,
+      "type": "Chocolate"
+    },
+    {
+      "id": 3,
+      "type": "Lollipop"
+    },
+    {
+      "id": 4,
+      "type": "Taffy"
+    },
+    {
+      "id": 5,
+      "type": "Sour Candy"
+    },
+    {
+      "id": 6,
+      "type": "Gumball"
+    }
+  ],
+  "storeData": [
+    {
+      "id": 1,
+      "storeName": "internet solution",
+      "companyName": "McLaughlin-Flatley"
+    },
+    {
+      "id": 2,
+      "storeName": "forecast",
+      "companyName": "Jacobs-Emmerich"
+    },
+    {
+      "id": 3,
+      "storeName": "Secured",
+      "companyName": "Raynor, Schroeder and Kulas"
+    },
+    {
+      "id": 4,
+      "storeName": "Object-based",
+      "companyName": "Wilderman-Dooley"
+    },
+    {
+      "id": 5,
+      "storeName": "Centralized",
+      "companyName": "Greenfelder-Hodkiewicz"
+    },
+    {
+      "id": 6,
+      "storeName": "structure",
+      "companyName": "Skiles and Sons"
+    },
+    {
+      "id": 7,
+      "storeName": "Organized",
+      "companyName": "Hammes-Jenkins"
+    },
+    {
+      "id": 8,
+      "storeName": "Multi-layered",
+      "companyName": "Schroeder Inc"
+    }
+  ],
+  "employeeData": [
+    {
+      "id": 1,
+      "employeeFirstName": "Odessa",
+      "employeeLastName": "Camolli",
+      "Company": "Lindgren and Sons"
+    },
+    {
+      "id": 2,
+      "employeeFirstName": "Cara",
+      "employeeLastName": "Buntin",
+      "Company": "Jerde-Leannon"
+    },
+    {
+      "id": 3,
+      "employeeFirstName": "Anna",
+      "employeeLastName": "Romand",
+      "Company": "McCullough-Kihn"
+    },
+    {
+      "id": 4,
+      "employeeFirstName": "Sully",
+      "employeeLastName": "Fleg",
+      "Company": "Emard, Gorczany and Wuckert"
+    },
+    {
+      "id": 5,
+      "employeeFirstName": "Aura",
+      "employeeLastName": "Simanek",
+      "Company": "Schroeder, Senger and Gulgowski"
+    },
+    {
+      "id": 6,
+      "employeeFirstName": "Jerrilyn",
+      "employeeLastName": "Orcas",
+      "Company": "Zulauf, Upton and Kassulke"
+    },
+    {
+      "id": 7,
+      "employeeFirstName": "Demetria",
+      "employeeLastName": "Mulcaster",
+      "Company": "Hyatt Group"
+    },
+    {
+      "id": 8,
+      "employeeFirstName": "Glynda",
+      "employeeLastName": "Oseman",
+      "Company": "Wuckert LLC"
+    },
+    {
+      "id": 9,
+      "employeeFirstName": "Giffard",
+      "employeeLastName": "Collman",
+      "Company": "Paucek, Runte and Witting"
+    },
+    {
+      "id": 10,
+      "employeeFirstName": "Rolland",
+      "employeeLastName": "Bendson",
+      "Company": "Von LLC"
+    },
+    {
+      "id": 11,
+      "employeeFirstName": "Niko",
+      "employeeLastName": "Ilyukhov",
+      "Company": "Johnson LLC"
+    },
+    {
+      "id": 12,
+      "employeeFirstName": "Ingeborg",
+      "employeeLastName": "Risbie",
+      "Company": "Bradtke-Welch"
+    },
+    {
+      "id": 13,
+      "employeeFirstName": "Roselia",
+      "employeeLastName": "Spray",
+      "Company": "Gerlach, Shields and Erdman"
+    },
+    {
+      "id": 14,
+      "employeeFirstName": "Christie",
+      "employeeLastName": "Dennett",
+      "Company": "Kuhlman-Hills"
+    },
+    {
+      "id": 15,
+      "employeeFirstName": "Riccardo",
+      "employeeLastName": "Kilgallon",
+      "Company": "Stiedemann and Sons"
+    },
+    {
+      "id": 16,
+      "employeeFirstName": "Cornelius",
+      "employeeLastName": "Knutsen",
+      "Company": "Bechtelar-Kertzmann"
+    },
+    {
+      "id": 17,
+      "employeeFirstName": "Ringo",
+      "employeeLastName": "Broadbere",
+      "Company": "Haag, Huel and Durgan"
+    },
+    {
+      "id": 18,
+      "employeeFirstName": "Mitzi",
+      "employeeLastName": "Mesias",
+      "Company": "Hilll Group"
+    },
+    {
+      "id": 19,
+      "employeeFirstName": "Berti",
+      "employeeLastName": "Aylett",
+      "Company": "Ruecker Group"
+    },
+    {
+      "id": 20,
+      "employeeFirstName": "Burt",
+      "employeeLastName": "Flute",
+      "Company": "Stokes and Sons"
+    },
+    {
+      "id": 21,
+      "employeeFirstName": "Lily",
+      "employeeLastName": "Scurfield",
+      "Company": "Schmidt-Baumbach"
+    }
+  ]
+}
