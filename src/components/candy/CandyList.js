@@ -1,26 +1,20 @@
 import React, { Component } from 'react'
-import CandyTypes from '../API/candytypes.js'
+import CandyItem from './CandyItem'
 
 export default class Candy extends Component {
 
-  state = {
-    candyTypes: CandyTypes
-  }
-
   render() {
     return (
-      <section className="candy">
-        <h2>All Our Candy:</h2>
-        <ul>
+      <section className="candy" >
+        <h2>All Our Kandy</h2>
+        <ol>
           {
-            this.props.candies.map(candy =>
-              <li key={candy.id}>
-                {candy.name}
-              </li>
+            this.props.candy.map(item =>
+              <CandyItem className="candyItem" key={item.id} candy={item} />
             )
           }
-        </ul>
-      </section>
+        </ol>
+      </section >
     )
   }
 }
