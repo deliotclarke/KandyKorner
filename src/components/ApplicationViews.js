@@ -1,5 +1,10 @@
 import { Route } from 'react-router-dom'
+import { Link } from "react-router-dom"
 import React, { Component } from "react"
+
+import CandyList from './candy/CandyList'
+import StoreList from './store/StoreList'
+import EmployeeList from './employee/EmployeeList'
 
 class ApplicationViews extends Component {
 
@@ -32,13 +37,14 @@ class ApplicationViews extends Component {
 
     return (
       <React.Fragment >
-        <Route exact path="/" render={(props) => {
-        }} />
         <Route path="/kandy" render={(props) => {
+          return <CandyList candy={this.state.candy} />
         }} />
         <Route path="/stores" render={(props) => {
+          return <StoreList stores={this.state.stores} />
         }} />
         <Route path="/employees" render={(props) => {
+          return <EmployeeList employees={this.state.employees} />
         }} />
       </React.Fragment >
     )

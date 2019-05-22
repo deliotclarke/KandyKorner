@@ -5,7 +5,7 @@ export default class Candy extends Component {
   render() {
     return (
       <section className="candy">
-        <h2>All Our Candy:</h2>
+        <h2>All Our Kandy</h2>
       </section>
     )
   }
