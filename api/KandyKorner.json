@@ -1,5 +1,5 @@
 {
-  "candyData": [
+  "candy": [
     {
       "id": 1,
       "name": "Song of Bernadette, The",
@@ -251,7 +251,7 @@
       "type": 1
     }
   ],
-  "candyTypes": [
+  "candytypes": [
     {
       "id": 1,
       "type": "Hard Candy"
@@ -277,7 +277,7 @@
       "type": "Gumball"
     }
   ],
-  "storeData": [
+  "stores": [
     {
       "id": 1,
       "storeName": "internet solution",
@@ -319,7 +319,7 @@
       "companyName": "Schroeder Inc"
     }
   ],
-  "employeeData": [
+  "employees": [
     {
       "id": 1,
       "employeeFirstName": "Odessa",

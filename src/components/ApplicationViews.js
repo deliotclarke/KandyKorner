@@ -4,6 +4,9 @@ import React, { Component } from "react"
 import CandyList from './candy/CandyList'
 import StoreList from './store/StoreList'
 import EmployeeList from './employee/EmployeeList'
+import CandyManager from '../modules/CandyManager'
+import EmployeeManager from '../modules/EmployeeManager'
+import StoresManager from '../modules/StoresManager';
 
 class ApplicationViews extends Component {
 
@@ -21,16 +24,18 @@ class ApplicationViews extends Component {
     employees: []
   }
 
-  // componentDidMount() {
+  componentDidMount() {
 
-  //   const newState = {}
+    const newState = {}
 
-  //   CandyManager.getAll()
-
-  // }
-
-  //so i need when someone types into the search bar and hits enter for it to display things that match what they entered
-  //i need to grab the value of the input
+    CandyManager.getAll()
+      .then(candy => newState.candy = candy)
+      .then(() => EmployeeManager.getAll())
+      .then(employees => newState.employees = employees)
+      .then(() => StoresManager.getAll())
+      .then(stores => newState.stores = stores)
+      .then(() => this.setState(newState))
+  }
 
   render() {
 
